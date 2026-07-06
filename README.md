@@ -1,5 +1,17 @@
 # Python Log Analyzer
 
+## Usage
+
+```bash
+python3 analyzer.py /path/to/application.log
+```
+
+Or run interactively (prompts for a file path):
+
+```bash
+python3 analyzer.py
+```
+
 ## Overview
 
 Python Log Analyzer is a cybersecurity project developed as part of my Project Falcon portfolio.
